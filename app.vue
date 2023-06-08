@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import Menu from '@/components/Menu.vue'
+
+console.log('v2')
 </script>
 
 <template>
