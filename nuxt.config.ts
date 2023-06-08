@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: '/dist/',
+    baseURL: '/nuxt-deploy/',
   },
   css: ['@/assets/styles/main.scss'],
 })
